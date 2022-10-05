@@ -1,0 +1,5 @@
+Django==4.1.1
+gunicorn
+djangorestfreamwork
+django-environ==0.8.1
+psycopg2
