@@ -13,7 +13,7 @@ services:
       - ./.env
 
   web:
-    container_name: django_web3
+    container_name: django_web2
     restart: unless-stopped
     build:
       context: .
